@@ -1,0 +1,17 @@
+{
+    "name": "tester2023/randompass",
+    "description": "randowm password gen",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Tester2023\\Randompass\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tester"
+        }
+    ],
+    "require": {}
+}
